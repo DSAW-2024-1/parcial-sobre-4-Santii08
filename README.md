@@ -17,7 +17,9 @@ Requerimientos:
 
 ![Imagen login](Image/Captura%20de%20pantalla%202024-02-22%20231956.png)
 ![Image confirmation](Image/Captura%20de%20pantalla%202024-02-22%20232213.png)
-![Image confirmation mobile](Image/Captura%20de%20pantalla%202024-02-22%20232509.png)}
+![Image confirmation mobile](Image/Captura%20de%20pantalla%202024-02-22%20232509.png)
+Tuve problemas con un error 504 al subirlo a git hub pages, por lo tanto grabe un video de su funcionamiento:
+[Video funcionamiento](https://www.youtube.com/watch?v=Fb6OorEOqrY)
 
 
 ##Link
