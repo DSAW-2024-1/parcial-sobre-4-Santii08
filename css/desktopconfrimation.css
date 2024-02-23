@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(44, 54, 61);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Añade esto para ocupar toda la altura de la ventana */
+    margin: 0; /* Añade esto para quitar los márgenes predeterminados del cuerpo */
+  }
+  
+  .confirmation {
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    
+    padding: 30px;
+  }
+  .azul{
+    background-color: rgb(14, 14, 39);
+    color: white;
+    flex-direction:flex ;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+  }
+  .mi-boton:hover {
+    background-color: #f8792b; /* Color naranja cuando el mouse está sobre el botón */
+  }

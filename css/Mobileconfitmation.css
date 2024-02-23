@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Añade esto para ocupar toda la altura de la ventana */
+    margin: 0; /* Añade esto para quitar los márgenes predeterminados del cuerpo */
+  }
+  
+  .confirmation {
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    
+  }
+  .mi-boton:hover {
+    background-color: #f8792b; /* Color naranja cuando el mouse está sobre el botón */
+  }
