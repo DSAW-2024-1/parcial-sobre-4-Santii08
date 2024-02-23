@@ -15,8 +15,13 @@ Requerimientos:
 
 ```
 
-![Texto Alternativo](./design/desktop-design.jpg)
-![Texto Alternativo](./design/desktop-success-active.jpg)
+![Imagen login](Image/Captura%20de%20pantalla%202024-02-22%20231956.png)
+![Image confirmation](Image/Captura%20de%20pantalla%202024-02-22%20232213.png)
+![Image confirmation mobile](Image/Captura%20de%20pantalla%202024-02-22%20232509.png)}
+
+
+##Link
+https://dsaw-2024-1.github.io/parcial-sobre-4-Santii08/
 
 ## Viewports
 
@@ -33,3 +38,4 @@ Requerimientos:
 | HTML Semántico             | 1       |
 | Funcionalidad              | 1.5     |
 | Despliegue en Github Pages | 0.5     |
+
